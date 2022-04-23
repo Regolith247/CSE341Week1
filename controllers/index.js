@@ -1,6 +1,6 @@
 displayMessage = (req, res) => {
     const data = 
-    'Insert placeholder message here';
+    'Name of someone I have met: Adam Savage';
     res.status(200).send(data);
 };
 
